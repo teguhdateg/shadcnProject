@@ -12,7 +12,6 @@ export default function Navbar ()  {
     const {setTheme} = useTheme()
 return (
 <nav className="p-4 flex items-center justify-between">
-    
     <SidebarTrigger />
     <div className="flex items-center gap-4">
     <Link href="/">Dashboard</Link>
