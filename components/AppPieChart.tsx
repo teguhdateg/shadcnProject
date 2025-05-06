@@ -22,7 +22,7 @@ const chartConfig = {
     },
     chrome: {
       label: "Chrome",
-      color: "var(--chart-1))",
+      color: "var(--chart-1)",
     },
     safari: {
       label: "Safari",
